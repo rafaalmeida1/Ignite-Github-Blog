@@ -24,7 +24,7 @@ Durante este desafio, desenvolvemos uma aplicação que utiliza a API do GitHub 
     <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" height="40px" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-henrique-silva-de-almeida-a396bb22b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />
   </a>
 </div>
